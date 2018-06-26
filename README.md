@@ -1,1 +1,1 @@
-# SimpleQuiz
+# SimpleQuiz in js
