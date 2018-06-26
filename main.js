@@ -11,7 +11,7 @@ function check() {
 	}
 	
 	var messages = ["Great Job","That's just okay","You really need to do better"];
-	var pictures = ["img/win.gif","img/okay.gif","img/bad.gif"];
+	var pictures = ["win.gif","okay.gif","bad.gif"];
 	var range;
 	
 	if(correct < 1)
